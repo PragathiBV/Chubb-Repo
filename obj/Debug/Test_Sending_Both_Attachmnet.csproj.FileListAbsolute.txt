@@ -1,0 +1,12 @@
+C:\Users\10646451\source\repos\Test_Sending_Both_Attachmnet\Test_Sending_Both_Attachmnet\obj\Debug\Test_Sending_Both_Attachmnet.csprojResolveAssemblyReference.cache
+C:\Users\10646451\source\repos\Test_Sending_Both_Attachmnet\Test_Sending_Both_Attachmnet\obj\Debug\Test_Sending_Both_Attachmnet.csproj.CoreCompileInputs.cache
+C:\Users\10646451\source\repos\Test_Sending_Both_Attachmnet\Test_Sending_Both_Attachmnet\bin\Debug\Test_Sending_Both_Attachmnet.dll
+C:\Users\10646451\source\repos\Test_Sending_Both_Attachmnet\Test_Sending_Both_Attachmnet\bin\Debug\Test_Sending_Both_Attachmnet.pdb
+C:\Users\10646451\source\repos\Test_Sending_Both_Attachmnet\Test_Sending_Both_Attachmnet\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\10646451\source\repos\Test_Sending_Both_Attachmnet\Test_Sending_Both_Attachmnet\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\10646451\source\repos\Test_Sending_Both_Attachmnet\Test_Sending_Both_Attachmnet\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Users\10646451\source\repos\Test_Sending_Both_Attachmnet\Test_Sending_Both_Attachmnet\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\10646451\source\repos\Test_Sending_Both_Attachmnet\Test_Sending_Both_Attachmnet\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\10646451\source\repos\Test_Sending_Both_Attachmnet\Test_Sending_Both_Attachmnet\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+C:\Users\10646451\source\repos\Test_Sending_Both_Attachmnet\Test_Sending_Both_Attachmnet\obj\Debug\Test_Sending_Both_Attachmnet.dll
+C:\Users\10646451\source\repos\Test_Sending_Both_Attachmnet\Test_Sending_Both_Attachmnet\obj\Debug\Test_Sending_Both_Attachmnet.pdb
